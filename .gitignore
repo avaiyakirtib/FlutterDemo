@@ -90,7 +90,6 @@ ios/Runner/GeneratedPluginRegistrant.h
 .classpath
 .project
 .settings/
-.vscode/
 # Flutter repo-specific
 /bin/cache/
 /bin/mingit/
@@ -173,3 +172,6 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
