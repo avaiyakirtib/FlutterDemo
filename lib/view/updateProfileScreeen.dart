@@ -15,7 +15,8 @@ class Homescreen extends StatefulWidget {
 }
 
 class ChildHomescreen extends State<Homescreen> with updateprofileMixin {
-  var dropdownvalue = 'MALE', formattedDate, iteams = ["MALE", "FEMALE"], getDate, loginUser, genderValue,indicator,fullName, mobileNumber, dobValue,email,token;
+  var dropdownvalue = 'MALE', formattedDate, iteams = ["MALE", "FEMALE"], getDate, loginUser, genderValue,fullName, mobileNumber, dobValue,email,token;
+  bool indicator = false;
   final GlobalKey<FormState> _key = GlobalKey<FormState>();
   final GlobalKey<ScaffoldState> _scaffoldKey = new GlobalKey<ScaffoldState>();
   final TextEditingController _usernameController = TextEditingController();

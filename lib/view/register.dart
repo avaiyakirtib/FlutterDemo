@@ -27,8 +27,6 @@ class ChildSignup extends State<Signup> with RegisterInputValidationMixin {
   final TextEditingController _mobile = TextEditingController();
   var getDate, dropdownvalue = 'MALE', formattedDate, iteams = ["MALE", "FEMALE"];
   bool indicator = false;
-
-
   @override
   void initState() {
     // TODO: implement initState
