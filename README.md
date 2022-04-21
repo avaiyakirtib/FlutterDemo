@@ -1,6 +1,6 @@
 # practicaltest
 
-A new Flutter project.
+Contains practical test work including API call and firebase functions
 
 ## Getting Started
 
