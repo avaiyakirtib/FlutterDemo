@@ -7,11 +7,11 @@ https://github.com/avaiyakirtib/FlutterDemo/tree/Dev/build/app/outputs/apk/relea
 
 ## Demo login to use the app
 These are the demo login
-kirti123@gmail.com
-kirti@gmail.com
-kirtib1@gmail.com
-kirtikb1@gmail.com
-test@test.com
+- kirti123@gmail.com
+- kirti@gmail.com
+- kirtib1@gmail.com
+- kirtikb1@gmail.com
+- test@test.com
 
 Password for all above login: 123456
 
